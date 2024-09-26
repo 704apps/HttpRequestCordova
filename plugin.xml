@@ -17,7 +17,7 @@
                 <param name="android-package" value="br.com.fabrica704.http.HttpRequestCordova"/>
             </feature>
         </config-file>
-        <framework src="com.android.volley:volley:1.1.1" />
+        <framework src="com.android.volley:volley:1.2.1" />
 
         <config-file target="AndroidManifest.xml" parent="/*">
             <uses-permission android:name="android.permission.INTERNET"/>
